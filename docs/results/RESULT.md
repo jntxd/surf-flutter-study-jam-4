@@ -8,4 +8,4 @@
 
 # Ссылки на демонстрацию работы/скриншоты
 
-[[Скринкаст и скриншоты: ](https://drive.google.com/drive/folders/1i4JGI_mtQz7SIS9y0LvUOLiG7p5jOP0W?usp=sharing)]
+[[Скринкаст и скриншоты](https://drive.google.com/drive/folders/1i4JGI_mtQz7SIS9y0LvUOLiG7p5jOP0W?usp=sharing)]
